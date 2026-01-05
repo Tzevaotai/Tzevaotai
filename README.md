@@ -1,5 +1,5 @@
 # 👋 Welcome to **Tzevaotai**
-![](https://github.com/MelazAi/MelazAi/blob/main/welcome1.png?raw=true)
+![](https://github.com/Tzevaotai/Tzevaotai/blob/main/welcome1.png?raw=true)
 
 ### Transform Any WebsiteInto a Powerful PWA 
 
