@@ -4,7 +4,7 @@
 ### Transform Any WebsiteInto a Powerful PWA 
 
 🔗 Website: https://tzevaotai.com/  </br>
-🔗 GitHub: https://github.com/MelazAi </br>
+🔗 GitHub: https://github.com/Tzevaotai </br>
 🔗 X: https://twitter.com/tzevaotai </br>
 🔗 LinkedIn: https://linkedin.com/company/tzevaotai </br>
 
